@@ -32,14 +32,14 @@ PROFILE = {
         "project management, and solar plant operations."
     ),
     "dob": "June 21, 1991",
-    "location": "Binh Thuan, Viet Nam",
+    "location": "Lam Dong, Viet Nam",
     "phone": "+84 965 739786",
     "email": "ledaiduong686@gmail.com",
     "linkedin": "https://www.linkedin.com/in/le-dai-duong-3704b9169/",
 }
 
 STRENGTHS = [
-    "Technical expertise: 11 years in energy systems O&M.",
+    "Technical expertise: Over 11 years in energy systems O&M.",
     "People management: lead teams to meet performance goals.",
     "Problem-solving: strong decisions under pressure.",
     "Relationship management with authorities and power sector agencies.",
